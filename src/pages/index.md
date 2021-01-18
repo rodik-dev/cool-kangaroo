@@ -9,6 +9,10 @@ sections:
       ligula, cursus id molestie vel.
 
 
+      ```
+        ![](https://preview--cool-kangaroo-4733b.staging.stackbit.dev/images/classic/hero.png) 
+
+      ```
 
 
       ![](https://preview--cool-kangaroo-4733b.staging.stackbit.dev/images/classic/hero.png)
