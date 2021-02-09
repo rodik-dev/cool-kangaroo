@@ -12,7 +12,6 @@ sections:
       !\[]\(https://preview--cool-kangaroo-4733b.staging.stackbit.dev/images/classic/hero.png) 
 
 
-
       ![](/images/gaming-bd.jpg)
     actions:
       - label: Try Free
